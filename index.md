@@ -2,8 +2,6 @@
 layout: index
 ---
 
-[Syntax Reference](syntax-ref).
-
 # My Posts
 
 <ul>
@@ -13,3 +11,8 @@ layout: index
     </li>
   {% endfor %}
 </ul>
+
+# Useful Links
+
+- [Syntax Reference for MD](syntax-ref)
+

@@ -14,5 +14,5 @@ layout: index
 
 # Useful Links
 
-- [Syntax Reference for MD](syntax-ref)
+- [Markdown Syntax Reference](syntax-ref)
 

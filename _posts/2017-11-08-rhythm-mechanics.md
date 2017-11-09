@@ -1,5 +1,5 @@
 ---
-layout: post
+title: 2DBeat Rhythm Mechanics Design
 ---
 
 ## Programming

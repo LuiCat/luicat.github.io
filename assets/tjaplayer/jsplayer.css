@@ -1,0 +1,311 @@
+
+#jsplayer
+{
+	margin: 0px;
+	padding: 0px;
+	background-color: orange;
+}
+
+#jsplayer *
+{
+	font-family: SimSun;
+}
+
+#jsplayer.fullscreen
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%;
+}
+
+#notelist
+{
+	display: none;
+}
+
+div#notescene
+{
+	position: relative;
+	background-color: #ff3700;
+	border-bottom: 2px solid black;
+	border-top: 2px solid black;
+}
+
+div#notescene_inner
+{
+	margin: 0 auto;
+	height: 146px;
+	max-width: 910px;
+	position: relative;
+	background-color: black;
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+}
+
+div#notetrack
+{
+	position: relative;
+	height: 110px;
+	background-color: #555555;
+	overflow: hidden;
+}
+
+div#notejudgecircle
+{
+	background-image: url("i/note_c.png");
+	background-size: 100%;
+	position: absolute;
+	left: 0px;
+	top: -5px;
+	height: 120px;
+	width: 120px;
+	z-index: 2;
+}
+
+div#notecontainer
+{
+	position: relative;
+	left: 60px;
+	top: 55px;
+}
+
+div#notecontainer_used
+{
+	position: relative;
+	left: 60px;
+	top: 55px;
+}
+
+div#titleboard
+{
+	background-color: black;
+	height: 36px;
+	overflow: hidden;
+}
+
+div.title_discard,
+div#title_now
+{
+	position: absolute;
+	right: 0px;
+	height: 36px;
+	font-size: 24px;
+	line-height: 36px;
+	padding: 0px 8px;
+	text-align: right;
+	white-space: nowrap;
+	overflow: hidden;
+	color: white;
+}
+
+div#bgmcontroller
+{
+	position: absolute;
+	width: 100%;
+	bottom: 0px;
+	margin: 0px;
+	padding: 0px;
+	opacity: 0.0;
+	transition: 1s;
+	-moz-transition: 1s;	      /* Firefox 4 */
+	-webkit-transition: 1s;	      /* Safari �� Chrome */
+	-o-transition: 1s;	          /* Opera */
+}
+
+div#bgmcontroller:hover
+{
+	opacity: 1.0;
+	transition: 0.2s;
+	-moz-transition: 0.2s;	      /* Firefox 4 */
+	-webkit-transition: 0.2s;	  /* Safari �� Chrome */
+	-o-transition: 0.2s;	      /* Opera */
+}
+
+audio#bgm
+{
+	width: 100%;
+	margin: 0px;
+}
+
+div.barline
+{
+	position: absolute;
+	background-color: #cccccc;
+	background-clip: content-box;
+	margin: -55px -1px;
+	height: 110px;
+	width: 2px;
+	z-index: 1;
+	color: #ffffff;
+}
+
+div.note
+{
+	position: absolute;
+	background-size: 100%;
+	background-clip: content-box;
+	background-origin: content-box;
+	margin: -30px;
+	height: 60px;
+	width: 60px;
+	z-index: 3;
+	color: #ffffff;
+	text-align: center;
+	line-height: 30px;
+}
+
+div.note.dong
+{
+	background-image: url("i/note_r.png");
+}
+
+div.note.ka
+{
+	background-image: url("i/note_b.png");
+}
+
+div.renda-head,div.renda-body,div.renda-end
+{
+	position: absolute;
+	background-size: 100%;
+	background-clip: content-box;
+	background-origin: content-box;
+	height: 100%;
+	width: 100%;
+}
+
+div.renda-head
+{
+	background-image: url("i/note_y.png");
+}
+
+div.renda-body
+{
+	padding: 0 30px;
+	height: 100%;
+	width: 0;
+	background-size: contain;
+	background-image: url("i/note_y_body.png");
+}
+
+div.note.big div.renda-body
+{
+	padding: 0 48px;
+}
+
+div.renda-end
+{
+	background-image: url("i/note_y_end.png");
+}
+
+div.note.balloon
+{
+	width: 150px;
+	background-image: url("i/balloon.png");
+}
+
+div.note.big
+{
+	margin: -48px;
+	height: 96px;
+	width: 96px;
+}
+
+div#offset
+{
+	position: absolute;
+	z-index: 10;
+	right: 0px;
+	top: 0px;
+	width: 125px;
+	background-color: #222222;
+	overflow: hidden;
+	white-space: nowrap;
+	opacity: 0.1;
+	height: 22px;
+	transition: 0.5s;
+	-moz-transition: 0.5s;	  /* Firefox 4 */
+	-webkit-transition: 0.5s; /* Safari �� Chrome */
+	-o-transition: 0.5s;	  /* Opera */
+}
+
+div#offset:hover
+{
+	opacity: 1.0;
+	height: 80px;
+	width: 198px;
+	transition: 0.3s;
+	-moz-transition: 0.3s;	  /* Firefox 4 */
+	-webkit-transition: 0.3s; /* Safari �� Chrome */
+	-o-transition: 0.3s;	  /* Opera */
+}
+
+div#offsettext
+{
+	color: white;
+	text-align: center;
+	font-size: 20px;
+	line-height: 22px;
+}
+
+div#offsetpanel
+{
+	position: relative;
+	overflow: hidden;
+	height: 56px;
+	width: 196px;
+	margin: 2px;
+}
+
+div#offsetinc
+{
+	float: left;
+	left: 0px;
+	font-size: 40px;
+	text-align: center;
+	width: 35px;
+	height: 54px;
+	line-height: 54px;
+	background-color: #dddddd
+}
+
+div#offsetnum
+{
+	float: left;
+	width: 120px;
+	margin: 0 2px;
+}
+
+input#offsetinput
+{
+	font-size: 36px;
+	height: 54px;
+	margin: 0;
+	padding: 0 2px;
+	line-height: 54px;
+	width: 120px;
+	border: 0px;
+	font-family: Verdana;
+}
+
+div#offsetdec
+{
+	float: left;
+	width: 120px;
+	font-size: 40px;
+	text-align: center;
+	height: 54px;
+	line-height: 54px;
+	vertical-align: middle;
+	width: 35px;
+	background-color: #dddddd
+}
+
+div#offsetinc:active,
+div#offsetdec:active
+{
+	background-color: #aaaaaa
+}
+

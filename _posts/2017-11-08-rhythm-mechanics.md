@@ -1,5 +1,5 @@
 ---
-title: 2DBeat Rhythm Mechanics Design
+title: 2DBeat Rhythm Mechanics Ideas
 ---
 
 ## Programming

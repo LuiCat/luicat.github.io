@@ -57,7 +57,7 @@ public static float subBeat { get; private set; }
 
 The property ```numBeat``` has similar usage with a frame number. The value is calculated by flooring ```beat```, but assigned to -1 when ```beat``` is negative.
 
-The property ```subBeat``` is strictly equal to ```beat - numBeat``` (calculating errors not included). It satisfies to be between [0, 1) when ```beat``` is positive and (\infty, 1) when ```beat``` is negative. Checking this property gives information about what position is it during one beat.
+The property ```subBeat``` is strictly equal to ```beat``` minus ```numBeat``` (calculating errors not included). It satisfies to be between [0, 1) when ```beat``` is positive and (-∞, 1) when ```beat``` is negative. Checking this property gives information about what position is it during one beat.
 
 Following ones are time-beat mapping methods, which are indispensible in terms of their definition. Further reading: [instance](#singleton-like-updating-strategy), [BeatProvider interface](#beatprovider)
 
@@ -91,6 +91,6 @@ public static double timeFromLastBeat { get; private set; }
 
 ## In the End
 
-By all means, I'd like to thank to the rhythm game Malody. In developing this game with the producer, I learned a lot about mechanics behind rhythm-synchronizing contents. For hard-core rhythm gamers, the ones who loves old-styled rhythm game modes and simulators, and creative authors who loves creating charts (generally mapping of the notes to certain beats) for songs to be played by all other players, I highly recommend this game to you.
+By all means, I'd like to thank to the rhythm game Malody. In developing this game with the producer, I learned a lot about mechanics behind rhythm-synchronizing contents. For hard-core rhythm gamers, the ones who loved old-styled rhythm game modes and simulators, and creative authors who loved creating charts (generally mapping of the notes to certain beats) for songs to be played by all other players, I highly recommend this game to you.
 
 Also, I'd like to introduce the fantastic Japanese arcade and console game Taiko no Tatsujin. Players use drum-sticks to play on arcade version of the game, while hearing sounds of they beating the taiko drum. I found most of the charts fancinating, and had been creating my own charts for 5 years. Also, I created a simple online taiko-game-like animated chart viewer which can be found [here]({% post_url 2017-11-09-tjaplayer-test %}).

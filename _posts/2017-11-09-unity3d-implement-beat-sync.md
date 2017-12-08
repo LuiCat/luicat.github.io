@@ -3,6 +3,8 @@ title: Implementation of Beat-Sync on Unity3D
 date: 2017-11-10
 ---
 
+Working in progress...
+
 ## In the Beginning
 
 My motivation of writing this tutorial is for my course project of DH2650 Computer Game Design in KTH. All codes and demo appended below are part of the project, and the game would be published in several weeks.
@@ -77,6 +79,8 @@ public static double timeFromLastBeat { get; private set; }
 
 #### Singleton-like Strategy
 
+
+
 #### Beat Provider
 
 #### Updating
@@ -89,8 +93,12 @@ public static double timeFromLastBeat { get; private set; }
 
 ## Demo
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IlQzDjnGnKc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 ## In the End
 
-By all means, I'd like to thank to the rhythm game Malody. In developing this game with the producer, I learned a lot about mechanics behind rhythm-synchronizing contents. For hard-core rhythm gamers, the ones who loved old-styled rhythm game modes and simulators, and creative authors who loved creating charts (generally mapping of the notes to certain beats) for songs to be played by all other players, I highly recommend this game to you.
+By all means, I'd like to thank to the rhythm game Malody ([our community page](http://m.mugzone.net/index), [introduction](http://m.mugzone.net/)). In developing this game with the producer, I learned a lot about mechanics behind rhythm-synchronizing contents. For hard-core rhythm gamers, the ones who loved old-styled rhythm game modes and simulators, and creative authors who loved creating charts (generally mapping of the notes to certain beats) for songs to be played by all other players, I highly recommend this game to you.
 
 Also, I'd like to introduce the fantastic Japanese arcade and console game Taiko no Tatsujin. Players use drum-sticks to play on arcade version of the game, while hearing sounds of they beating the taiko drum. I found most of the charts fancinating, and had been creating my own charts for 5 years. Also, I created a simple online taiko-game-like animated chart viewer which can be found [here]({% post_url 2017-11-09-tjaplayer-test %}).
+
+November 9, 2017

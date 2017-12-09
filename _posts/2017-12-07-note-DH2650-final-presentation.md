@@ -3,7 +3,7 @@ title: Notes for DH2650 Game Design Final Presentation
 date: 2017-12-07
 ---
 
-### Notes on Other Groups
+### Notes on Other Teams
 
 As I have to leave the presentation session early for my lab class, here is the notes on games I had watched:
 
@@ -43,7 +43,7 @@ As I have to leave the presentation session early for my lab class, here is the 
 
 Finally it's the turn for TIMELAPSE!
 
-The level is still too hard for all classmates, even for my groupmates, but pretty basic for myself. So maybe still lack more efforts on the difficulty control.
+The level is still too hard for all classmates, even for my teammates, but pretty basic for myself. So maybe still lack more efforts on the difficulty control.
 
 Björn commented that the game fulfilled our quality target.
 

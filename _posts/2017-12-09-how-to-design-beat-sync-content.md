@@ -1,5 +1,6 @@
 ---
 title: How to Design Rhythm-Synchronized Game Contents & Quick Notes on TIMELAPSE Level Design
+course: DH2650
 date: 2017-12-09
 ---
 

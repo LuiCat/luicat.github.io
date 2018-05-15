@@ -1,5 +1,6 @@
 ---
 title: Notes on Companies at Guest Lectures in DH2650 Computer Game Design
+course: DH2650
 date: 2017-12-08
 ---
 

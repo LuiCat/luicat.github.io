@@ -1,5 +1,6 @@
 ---
 title: 2DBeat Rhythm Mechanics Ideas
+course: DH2650
 ---
 
 ## Programming

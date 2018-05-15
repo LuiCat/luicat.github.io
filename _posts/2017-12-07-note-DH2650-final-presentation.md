@@ -1,5 +1,6 @@
 ---
 title: Notes for DH2650 Game Design Final Presentation
+course: DH2650
 date: 2017-12-07
 ---
 

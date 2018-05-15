@@ -1,16 +1,50 @@
 <!doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    {% include head.html %}
-  </head>
-  <body>
-    <div class="wrapper">
-      {% include header.html %}
-      <section id="index_main">
-        {{ content }}
-      </section>
-      {% include footer.html %}
-    </div>
-    {% include google_analytics.html %}
-  </body>
+<head>
+
+{% include head.html %}
+
+</head>
+<body>
+
+<div class="wrapper">
+  {% include header.html %}
+  <section id="index_main">
+    {{ content }}
+  </section>
+  {% include footer.html %}
+</div>
+
+<script>
+var colorOfString = {};
+
+function stringColor(str) {
+  if (typeof str != 'string' || str.length == 0)
+    return '#000000';
+  if (str in colorOfString)
+    return colorOfString[str];
+
+  var hash = 765;
+  for (var i = 0; i < str.length; ++i) {
+    hash = ((hash * 8201 + str.charCodeAt(i) * 2018) % 72);
+  }
+  
+  color = "hsl(" + (hash * 5) + ", 100%, " + (hash % 2 ? 40 : 25) + "%)";
+
+  colorOfString[str] = color;
+
+  return color;
+}
+
+$(function(){
+  var courseList = $('.post_course');
+  courseList.each(function() {
+    $(this).css("background", stringColor($(this).text()));
+  });
+});
+</script>
+
+{% include google_analytics.html %}
+
+</body>
 </html>

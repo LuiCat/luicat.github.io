@@ -8,7 +8,7 @@ date: 2017-12-08
 
 It is pretty strange that no UI-space particle system component is included in Unity. When developing UI particle effects I found this script on Internet:
 
-```CSharp
+```csharp
 using UnityEngine;
 using UnityEngine.UI;
 using System.Collections.Generic;

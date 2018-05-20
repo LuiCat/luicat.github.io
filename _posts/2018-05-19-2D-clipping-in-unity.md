@@ -34,13 +34,13 @@ To begin with, we should determine which edges are clipped by the clipping plane
 
 To fuse all close vertices together, which can be determined by ```Vector3.Equals```, we use a look up table to see if there is already a vertex at specific position:
 
-```CSharp
+```csharp
 var mapVertexId = new Dictionary<Vector3, int>();
 ```
 
 Then for every vertices from the mesh, we look up the previous entry of vertices if fusing is possible and fill out this array:
 
-```CSharp
+```csharp
 var vertexFused = new int[vertices.Length];
 ```
 
@@ -58,7 +58,7 @@ With side information of vertices, we can determine whether an edge is clipped b
 
 For every triangle facet, we know that there could be at maximum 2 edges that can be clipped by a plane at the same time, we record clipped edges in pairs:
 
-```CSharp
+```csharp
 // key & value for two pair of indices of edge vertices
 var clippedEdgePairs = new List<KeyValuePair<Vector2Int, Vector2Int>>();
 ```
@@ -79,7 +79,7 @@ For any edge that has a clipping point, the ratio of length of two clipped part 
 
 Calculation in C#:
 
-```CSharp
+```csharp
 // calculate the ratio of intersection point by measuring the ratio of equivalent vectors projected on plane's normal vector
 float k = Vector3.Dot(planeCenter - v0, planeNormal) / Vector3.Dot(v1 - v0, planeNormal);
 // then simply use the ratio to determine the exact intersection point

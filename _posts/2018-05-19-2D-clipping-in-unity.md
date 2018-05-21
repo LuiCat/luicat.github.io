@@ -1,5 +1,5 @@
 ---
-title: 2D clipping in Unity
+title: 2D Cross-Section in Unity
 course: DH2323
 date: 2018-05-19
 ---
@@ -7,6 +7,8 @@ date: 2018-05-19
 ## In the beginning
 
 This mini-project is for gaining better understand of higher-dimension clipping procedures by making a script of 2D clipping algorithm, which generates an outline of clipped area of a 3D object with a plane. All tests based on Unity's standard assets.
+
+Also to be clarified, I have been using the wrong term "clip" for cross-section when I wrote this post. Sorry if this is confusing.
 
 ## Choice of input / output contents
 

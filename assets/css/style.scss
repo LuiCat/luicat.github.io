@@ -9,12 +9,22 @@ body {
     min-height: calc(100% - 10px);
 }
 
-h1 {
-	border-bottom: 2px solid #ccc;
+h1.title {
+    border-bottom: 2px solid #ccc;
+    margin-bottom: 32px;
 }
 
-h4 {
+section h4 {
     font-family: sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+
+p {
+    margin-bottom: 16px;
 }
 
 .title {

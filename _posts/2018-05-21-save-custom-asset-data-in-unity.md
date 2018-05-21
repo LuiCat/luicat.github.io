@@ -59,5 +59,5 @@ After the end of searching, I'd like to put some useful links to refer and give 
 
 #### References
 
-- Unity Tutorial : Introduction to Scriptable Objects ([https://unity3d.com/cn/learn/tutorials/modules/beginner/live-training-archive/scriptable-objects]([https://unity3d.com/cn/learn/tutorials/modules/beginner/live-training-archive/scriptable-objects))
+- Unity Tutorial : Introduction to Scriptable Objects ([https://unity3d.com/cn/learn/tutorials/modules/beginner/live-training-archive/scriptable-objects](https://unity3d.com/cn/learn/tutorials/modules/beginner/live-training-archive/scriptable-objects))
 - [Editor scripting] How to save a script generated mesh as an asset/FBX? ([https://answers.unity.com/questions/39311/editor-scripting-how-to-save-a-script-generated-me.html](https://answers.unity.com/questions/39311/editor-scripting-how-to-save-a-script-generated-me.html))

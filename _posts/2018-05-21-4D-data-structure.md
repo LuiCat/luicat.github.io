@@ -72,10 +72,10 @@ For a easier setup, I put a tetrahedron in xyz-hyperplane and added a 5th vertex
 According to Wikipedia, the values for a 5-cell with edge length 2*sqrt(2), the vertices are:
 
 ```
-( 1,  1,  1, 1/sqrt(5))
-( 1, -1, -1, 1/sqrt(5))
-(-1,  1, -1, 1/sqrt(5))
-(-1, -1,  1, 1/sqrt(5))
+( 1,  1,  1, -1/sqrt(5))
+( 1, -1, -1, -1/sqrt(5))
+(-1,  1, -1, -1/sqrt(5))
+(-1, -1,  1, -1/sqrt(5))
 ( 0,  0,  0, sqrt(5)-1/sqrt(5))
 ```
 

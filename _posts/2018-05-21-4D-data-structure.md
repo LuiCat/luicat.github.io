@@ -88,7 +88,7 @@ With this projection, I divided the triangles into 2 types:
 ```
 Vertex indices of triangles #i
 Side triangles   - (i, i+1 mod 5, i+2 mod 5)
-Middle triangles - (i, i+1 mod 5, i+4 mod 5)
+Middle triangles - (i, i+1 mod 5, i+3 mod 5)
 ```
 
 And also each cell contains 2 triangles of each kind:

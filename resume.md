@@ -5,6 +5,8 @@ date: 2022-09-23
 
 # 游戏程序、技术美术简历
 
+<img width=160 src="https://avatars.githubusercontent.com/u/5405648?v=4" />
+
 - 花名：万猫奔腾、LuiCat、futaneko、二猫
 - 主职：主机游戏程序员（请私下详聊）
 - 业余：目前无主要项目，于一个游戏项目参与技术咨询，正在进行业余资产整理
@@ -66,7 +68,7 @@ date: 2022-09-23
 * 社区：关卡创作者社区经营与赛事主持、内容创作价值观探讨、运营管理与疑难问题解答支持
 * 社区：与社区合作的新游戏功能的探讨与游戏内容规范的起草
 
-#### 杂余项目
+#### 杂余项目（玩具类、低工时、低目标项目）
 
 - 重 shader 粒子系统的 VR 弹幕渲染（[YouTube](https://www.youtube.com/watch?v=ELOlUL2tW9U), [AcFun](https://www.acfun.cn/v/ac10201696)）
 

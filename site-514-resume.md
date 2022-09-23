@@ -60,5 +60,8 @@ date: 2018-05-23
 
 基于乐理时间轴的 2D 弹幕 lua 脚本框架设计（[YouTube](https://www.youtube.com/watch?v=Fc0G5_7bP38)，[Bilibili](https://www.bilibili.com/video/BV1YV411s7uD)）
 
-同上，一个古早东方同人游戏 demo （[YouTube](https://www.youtube.com/watch?v=VIRENko25Gk))
+同上，一个古早东方同人游戏 demo （[YouTube](https://www.youtube.com/watch?v=VIRENko25Gk)）
+
+同上，重用这个点子的课设（[Blog](https://luicat.github.io/2017/12/09/how-to-design-beat-sync-content.html)）
+
 

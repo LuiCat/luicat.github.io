@@ -1,3 +1,3 @@
 # LuiCat's Blog
 
-Seems good here...
+Mainly graduate course projects.

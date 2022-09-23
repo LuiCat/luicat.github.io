@@ -3,21 +3,26 @@ title: "Resume: LuiCat - Site 514 / Kappa Studio"
 date: 2018-05-23
 ---
 
-# 游戏程序、技术美术简历 - 幻想乡：定域失界（河童重工工作室）
+# 游戏程序、技术美术简历 — 幻想乡：定域失界（河童重工工作室）
 
 ## 花名
+
 万猫奔腾（LuiCat、futaneko、二猫）
 
-## 专精
-* 职业主机游戏程序员（请私下详聊）
-* 游戏系统架构设计
-* Data-Driven、模块化、面向图形编程的程序设计
-* UGC 编辑器设计、社区驱动的游戏内容生产工具、实时编辑预览框架设计
+主职：主机游戏程序员（请私下详聊）
+
+## 业余专精
+
+- 游戏系统架构设计
+- Data-Driven、模块化、面向图形编程的程序设计
+- UGC 编辑器设计、社区驱动的游戏内容生产工具设计、实时编辑预览框架设计
+- Unity 与类 Unreal 式 in-house 游戏引擎的使用经验 — 抱歉，我没有使用 Unreal 的任何项目经验
+
 * 了解粒子系统与特效渲染管线
-* 了解 VR 与多形式（multimodal）交互与3C设计
-* Unity 与类 Unreal 式 in-house 游戏引擎的使用经验 -- 抱歉，我业余没有使用 Unreal 的实际项目经验
-* 音频编程与音频引擎编程
-* 音效设计、编曲混音、乐理、基于音乐的游戏内容创作等
+* VR 与多模态（multimodal）交互与 3C 设计
+
+- 音频编程与音频引擎编程
+- 音效设计、编曲混音、乐理、基于音乐的游戏内容创作等
 
 ## 项目经历（业余）
 
@@ -30,7 +35,7 @@ date: 2018-05-23
 
 * 游戏功能：太鼓达人游戏模式的模拟器开发
 * 交互设计：太鼓达人谱面的线性输入式编辑器开发
-* 协作：与主催、美术、和其他技术人员的敏捷开发式协作
+* 协作：与主催、美术和其他技术人员协作的业余时间敏捷开发
 * 社区：关卡创作者社区经营与赛事主持
 
 #### Malody V (多模式社区音游，[Steam](https://store.steampowered.com/app/1512940/Malody_V/))
@@ -48,7 +53,8 @@ date: 2018-05-23
 * 游戏功能：太鼓模式（未发布，可以提供测试版本）
 * 交互设计：多行输入、实时预览式太鼓谱面编辑器（未完成开发，可以提供文档）
 
-- 协作：项目代码标准与代码库管理
+- 协作：与主催、美术和运营团队协作的业余时间敏捷开发
+- 协作：拟定与维护项目代码标准、 GitLab 库管理
 - 协作：标准化版本发布与测试流程
 
 * 社区：关卡创作者社区经营与赛事主持、内容创作价值观探讨、运营管理与疑难问题解答支持
@@ -56,12 +62,14 @@ date: 2018-05-23
 
 #### 杂余项目
 
-重 shader 式 VR 弹幕渲染（[YouTube](https://www.youtube.com/watch?v=m2s067KZ8v4)）
+- 重 shader 式 VR 弹幕渲染（[YouTube](https://www.youtube.com/watch?v=m2s067KZ8v4)）
 
-基于乐理时间轴的 2D 弹幕 lua 脚本框架设计（[YouTube](https://www.youtube.com/watch?v=Fc0G5_7bP38)，[Bilibili](https://www.bilibili.com/video/BV1YV411s7uD)）
+* 基于乐理时间轴的 2D 弹幕 lua 脚本框架设计（[YouTube](https://www.youtube.com/watch?v=Fc0G5_7bP38)，[Bilibili](https://www.bilibili.com/video/BV1YV411s7uD)）
+* 同上，一个古早东方同人游戏 demo （[YouTube](https://www.youtube.com/watch?v=VIRENko25Gk)）
+* 同上，重用这个点子的课设（[Blog](https://luicat.github.io/2017/12/09/how-to-design-beat-sync-content.html)）
 
-同上，一个古早东方同人游戏 demo （[YouTube](https://www.youtube.com/watch?v=VIRENko25Gk)）
+- 同人音乐
+  - 赤蛮奇x二童子（[Bilibili](https://www.bilibili.com/video/BV1Kr4y1L7yD)）
+  - 三月精组曲 （[YouTube](https://www.youtube.com/watch?v=LlVHF0-omXY)）
 
-同上，重用这个点子的课设（[Blog](https://luicat.github.io/2017/12/09/how-to-design-beat-sync-content.html)）
-
-
+* 这个诡异的 AR 项目（[YouTube](https://www.youtube.com/watch?v=mZ4wnR3_OWc)）

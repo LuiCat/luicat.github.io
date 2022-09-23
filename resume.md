@@ -10,7 +10,7 @@ date: 2022-09-23
 - 花名：万猫奔腾、LuiCat、futaneko、二猫
 - 主职：主机游戏程序员（请私下详聊）
 - 业余：目前无主要项目，于一个游戏项目参与技术咨询，正在进行业余资产整理
-- 价值观：劳有所用，以人为本，话讲清楚
+- 价值观：劳有所用，话讲清楚
 
 ## 经验与专精
 
@@ -68,7 +68,7 @@ date: 2022-09-23
 * 社区：关卡创作者社区经营与赛事主持、内容创作价值观探讨、运营管理与疑难问题解答支持
 * 社区：与社区合作的新游戏功能的探讨与游戏内容规范的起草
 
-#### 杂余项目（玩具类、低工时、低目标项目）
+#### 杂余项目（玩具、低工时、低目标项目）
 
 - 重 shader 粒子系统的 VR 弹幕渲染（[YouTube](https://www.youtube.com/watch?v=ELOlUL2tW9U), [AcFun](https://www.acfun.cn/v/ac10201696)）
 
@@ -77,9 +77,9 @@ date: 2022-09-23
 * 同上，重用这个点子的课设（[Blog](https://luicat.github.io/2017/12/09/how-to-design-beat-sync-content.html)）
 
 - 同人音乐
-  - 赤蛮奇x二童子（[Bilibili](https://www.bilibili.com/video/BV1Kr4y1L7yD)）
-  - 三月精组曲 （[YouTube](https://www.youtube.com/watch?v=LlVHF0-omXY)）
+  - 赤蛮奇x二童子（[Bilibili](https://www.bilibili.com/video/BV1Kr4y1L7yD)，[SoundCloud](https://soundcloud.com/user-848797895/monf2022-mad-head)）
+  - 三月精组曲 （[YouTube](https://www.youtube.com/watch?v=LlVHF0-omXY)，[SoundCloud](https://soundcloud.com/user-848797895/midway-fairy-touhou)，[SoundCloud (大合奏mix)](https://soundcloud.com/user-848797895/midway-fairy-touhou-nds-mix)）
 
-* 这个诡异的 AR 项目（[YouTube](https://www.youtube.com/watch?v=mZ4wnR3_OWc)）
+* 一份诡异的 AR 项目（[YouTube](https://www.youtube.com/watch?v=mZ4wnR3_OWc)）
 
 - 键盘外设设计（[AcFun](https://www.acfun.cn/v/ac34210587)）

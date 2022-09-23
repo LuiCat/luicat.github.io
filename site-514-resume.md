@@ -5,13 +5,12 @@ date: 2018-05-23
 
 # 游戏程序、技术美术简历 — 幻想乡：定域失界（河童重工工作室）
 
-## 花名
+- 花名：万猫奔腾、LuiCat、futaneko、二猫
+- 主职：主机游戏程序员（请私下详聊）
+- 业余：目前无主要项目，于一个游戏项目参与技术咨询，正在进行业余资产整理
+- 价值观：劳有所用，以人为本，话讲清楚
 
-万猫奔腾（LuiCat、futaneko、二猫）
-
-主职：主机游戏程序员（请私下详聊）
-
-## 业余专精
+## 经验与专精
 
 - 游戏系统架构设计
 - Data-Driven、模块化、面向图形编程的程序设计
@@ -24,7 +23,7 @@ date: 2018-05-23
 - 音频编程与音频引擎编程
 - 音效设计、编曲混音、乐理、基于音乐的游戏内容创作等
 
-## 项目经历（业余）
+## 项目经历
 
 #### 东方慕华祭（[Steam](https://store.steampowered.com/app/882710/_TouHou_Makuka_Sai__Fantastic_Danmaku_Festival/?snr=1_7_7_151_150_1)）
 
@@ -62,7 +61,7 @@ date: 2018-05-23
 
 #### 杂余项目
 
-- 重 shader 式 VR 弹幕渲染（[YouTube](https://www.youtube.com/watch?v=m2s067KZ8v4)）
+- 重 shader 粒子系统的 VR 弹幕渲染（[YouTube](https://www.youtube.com/watch?v=m2s067KZ8v4)）
 
 * 基于乐理时间轴的 2D 弹幕 lua 脚本框架设计（[YouTube](https://www.youtube.com/watch?v=Fc0G5_7bP38)，[Bilibili](https://www.bilibili.com/video/BV1YV411s7uD)）
 * 同上，一个古早东方同人游戏 demo （[YouTube](https://www.youtube.com/watch?v=VIRENko25Gk)）

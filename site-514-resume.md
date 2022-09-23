@@ -1,9 +1,9 @@
 ---
-title: "Resume: LuiCat - Site 514 / Kappa Studio"
+title: "Resume: LuiCat"
 date: 2018-05-23
 ---
 
-# 游戏程序、技术美术简历 — 幻想乡：定域失界（河童重工工作室）
+# 游戏程序、技术美术简历
 
 - 花名：万猫奔腾、LuiCat、futaneko、二猫
 - 主职：主机游戏程序员（请私下详聊）

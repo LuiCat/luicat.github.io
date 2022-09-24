@@ -77,6 +77,7 @@ date: 2022-09-23
 * 同上，重用这个点子的课设（[Blog](https://luicat.github.io/2017/12/09/how-to-design-beat-sync-content.html)）
 
 - 同人音乐
+  - 河城みとり （[SoundCloud](https://soundcloud.com/user-848797895/the-kappa-from-hell-says)）
   - 赤蛮奇x二童子（[Bilibili](https://www.bilibili.com/video/BV1Kr4y1L7yD)，[SoundCloud](https://soundcloud.com/user-848797895/monf2022-mad-head)）
   - 三月精组曲 （[YouTube](https://www.youtube.com/watch?v=LlVHF0-omXY)，[SoundCloud](https://soundcloud.com/user-848797895/midway-fairy-touhou)，[SoundCloud (大合奏mix)](https://soundcloud.com/user-848797895/midway-fairy-touhou-nds-mix)）
 

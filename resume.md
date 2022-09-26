@@ -3,7 +3,7 @@ title: "Resume: LuiCat"
 date: 2022-09-23
 ---
 
-# 游戏程序、技术设计、技术美术简历
+# 游戏程序、架构、技术设计简历
 
 <img width=160 src="https://avatars.githubusercontent.com/u/5405648?v=4" />
 
